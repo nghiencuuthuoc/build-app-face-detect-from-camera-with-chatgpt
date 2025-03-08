@@ -1,5 +1,24 @@
+<table align="center">
+  <td>
+    <a href="https://colab.research.google.com/github/nghiencuuthuoc/PharmApp/blob/master/notebook/PharmApp.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+  <td>
+    <a target="_blank" href="https://kaggle.com/kernels/welcome?src=https://github.com/nghiencuuthuoc/PharmApp/blob/master/notebook/PharmApp.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
+  </td>
+</table>
 
-### Bài Viết Hướng Dẫn Xây Dựng Code Smoothing Skin và Cắt Khuôn Mặt từ Camera With ChatGPT
+![](./images/PharmApp-logo.png)
+# **PharmApp** - 🧠 AI for Research and Development Pharmaceuticals
+Copyright 2025 | Nghiên Cứu Thuốc | RnD_Pharma_Plus
+
+Email: nghiencuuthuoc@gmail.com | Web: nghiencuuthuoc.com | FB: facebook.com/nghiencuuthuoc 
+
+LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +84888999311
+
+Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
+
+
+## Bài Viết Hướng Dẫn Xây Dựng Code Smoothing Skin và Cắt Khuôn Mặt từ Camera With ChatGPT
 
 **Mục Tiêu:** 
 Hướng dẫn thực hành giúp sinh viên hiểu và xây dựng ứng dụng nhận diện khuôn mặt và làm sáng da, mịn màng qua camera thời gian thực. 
