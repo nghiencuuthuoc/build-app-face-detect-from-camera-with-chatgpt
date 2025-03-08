@@ -18,7 +18,7 @@ LinkedIn: linkedin.com/in/nghiencuuthuoc | Zalo: +84888999311 | WhatsAapp: +8488
 Twitter: x.com/nghiencuuthuoc | YT: youtube.com/@nghiencuuthuoc 
 
 
-## Bài Viết Hướng Dẫn Xây Dựng Code Smoothing Skin và Cắt Khuôn Mặt từ Camera With ChatGPT
+## ⚡️Ứng dụng AI ChatGPT Xây Dựng App Trích xuất khuôn mặt và làm trắng da từ Camera
 
 **Mục Tiêu:** 
 Hướng dẫn thực hành giúp sinh viên hiểu và xây dựng ứng dụng nhận diện khuôn mặt và làm sáng da, mịn màng qua camera thời gian thực. 
